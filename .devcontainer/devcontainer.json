@@ -1,0 +1,10 @@
+{
+  "name": "ai-security-30day",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python", "ms-python.vscode-pylance"]
+    }
+  },
+  "postCreateCommand": "pip install --upgrade pip"
+}
