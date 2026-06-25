@@ -1,0 +1,1 @@
+What makes me struggle was the fstring syntax and purpose something that definitely needs to get deeper
