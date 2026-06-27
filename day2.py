@@ -15,7 +15,7 @@ print (10 != 5) # not equal
 print (10 > 5) # greater than
 print (10 < 5) # less than
 print (10 >= 5) # greater or equal than
-print (10 <= 5) # less or not equal than
+print (10 <= 5) # less or equal than
 
 #Increasing 
 
@@ -28,7 +28,7 @@ print (num)
 #types of numbers
 
 int1 = 11
-flo1 = 1.5
+flo1 = -1.5
 
 print (type(int1))
 print (type(flo1))
